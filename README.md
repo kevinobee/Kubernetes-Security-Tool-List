@@ -14,6 +14,16 @@
 
     Autogenerate RBAC policies based on Kubernetes audit logs
 
+## Code Policy Enforcement
+
+1. [Datree](https://hub.datree.io/)
+
+    Prevent Kubernetes misconfigurations from reaching production
+    
+1. [Open Policy Agent (OPA)](https://www.openpolicyagent.org/docs/latest/kubernetes-introduction/)
+
+    The OPA is an open-source, general-purpose policy engine that can be used to enforce policies on various types of software systems like microservices, CI/CD pipelines, gateways, Kubernetes, etc. OPA was developed by Styra and is currently a part of CNCF.
+    
 ## Observability
 
 1. [Pixie](https://github.com/pixie-io/pixie)
