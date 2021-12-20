@@ -22,7 +22,11 @@
 
 ## Security Scanning
 
-1. [kube-bench](https://github.com/aquasecurity/kube-bench)
+1. [Kubescape](https://github.com/armosec/kubescape)
+
+    Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the NSA-CISA and the MITRE ATT&CK®.
+    
+3. [kube-bench](https://github.com/aquasecurity/kube-bench)
 
     Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 
