@@ -63,7 +63,7 @@
 
 1. [Falco](https://falco.org/)
 
-    Falco is the first runtime security project to join CNCF as an incubation-level project. Falco acts as a security camera detecting unexpected behavior, intrusions, and data theft in real time.
+    Falco acts as a security camera detecting unexpected behavior, intrusions, and data theft in real time.
 
 ## Security Hardening
 
