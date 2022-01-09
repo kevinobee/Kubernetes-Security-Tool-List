@@ -24,6 +24,19 @@
 
     The OPA is an open-source, general-purpose policy engine that can be used to enforce policies on various types of software systems like microservices, CI/CD pipelines, gateways, Kubernetes, etc. OPA was developed by Styra and is currently a part of CNCF.
     
+1. [Gatekeeper](https://open-policy-agent.github.io/gatekeeper/website/docs/)
+
+    Gatekeeper introduces the following functionality:
+
+    * An extensible, parameterized policy library
+    * Native Kubernetes CRDs for instantiating the policy library (aka "constraints")
+    * Native Kubernetes CRDs for extending the policy library (aka "constraint templates")
+    * Audit functionality
+
+1. [Gatekeeper Policy Library](https://github.com/open-policy-agent/gatekeeper-library)
+
+    See the Gatekeeper policy library for a collection of constraint templates and sample constraints that you can use with Gatekeeper.
+
 ## Observability
 
 1. [Pixie](https://github.com/pixie-io/pixie)
