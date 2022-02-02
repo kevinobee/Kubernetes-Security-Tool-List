@@ -43,6 +43,10 @@ See the [Security and Compliance](https://landscape.cncf.io/card-mode?category=s
 
     Conftest helps you write test assertions using the Rego language from Open Policy Agent against structured configuration data such as Kubernetes configuration files.
 
+1. [kube-score](https://github.com/zegl/kube-score)
+
+    `kube-score` is a tool that performs static code analysis of your Kubernetes object definitions.
+
 ## Observability
 
 1. [Pixie](https://github.com/pixie-io/pixie)
