@@ -97,3 +97,7 @@ See the [Security and Compliance](https://landscape.cncf.io/card-mode?category=s
 1. [localtls](https://github.com/Corollarium/localtls)
 
     DNS server for providing TLS to web services on local addresses
+
+## More Reading
+
+Take a look at [Awesome Kubernetes (K8s) Security](https://github.com/magnologan/awesome-k8s-security) for a curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.
